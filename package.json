@@ -1,7 +1,6 @@
 {
 	"name": "astro-dashboard",
 	"version": "0.0.1",
-	"license": "MIT",
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/nikolaxhristov/astro-dashboard.git"
@@ -10,6 +9,7 @@
 	"bugs": {
 		"url": "https://github.com/nikolaxhristov/astro-dashboard/issues"
 	},
+	"license": "MIT",
 	"private": false,
 	"main": "./dist/index.js",
 	"publishConfig": {
