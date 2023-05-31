@@ -3,11 +3,11 @@
 	"version": "0.0.1",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/NicholasJoyChrist/astro-dashboard.git"
+		"url": "https://github.com/NikolaRHristov/astro-dashboard.git"
 	},
-	"homepage": "https://github.com/NicholasJoyChrist/astro-dashboard#readme",
+	"homepage": "https://github.com/NikolaRHristov/astro-dashboard#readme",
 	"bugs": {
-		"url": "https://github.com/NicholasJoyChrist/astro-dashboard/issues"
+		"url": "https://github.com/NikolaRHristov/astro-dashboard/issues"
 	},
 	"license": "MIT",
 	"private": false,
