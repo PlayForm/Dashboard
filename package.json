@@ -2,19 +2,19 @@
 	"name": "astro-dashboard",
 	"version": "0.0.1",
 	"private": false,
-	"homepage": "HTTPS://GitHub.Com/Playform/AstroDashboard#readme",
+	"homepage": "https://github.com/Playform/AstroDashboard#readme",
 	"bugs": {
-		"url": "HTTPS://GitHub.Com/Playform/AstroDashboard/issues"
+		"url": "https://github.com/Playform/AstroDashboard/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+HTTPS://GitHub.Com/Playform/AstroDashboard.git"
+		"url": "git+https://github.com/Playform/AstroDashboard.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
 		"name": "Playform",
 		"email": "Hello@Playform.Cloud",
-		"url": "HTTPS://Playform.Cloud"
+		"url": "https://playform.cloud"
 	},
 	"type": "module",
 	"main": "./Target/Index.js",
