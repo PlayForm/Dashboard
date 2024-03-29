@@ -1,14 +1,14 @@
 {
-	"name": "astro-dashboard",
+	"name": "dashboard-astro",
 	"version": "0.0.1",
 	"private": false,
-	"homepage": "https://github.com/Playform/AstroDashboard#readme",
+	"homepage": "https://github.com/Playform/DashboardAstro#readme",
 	"bugs": {
-		"url": "https://github.com/Playform/AstroDashboard/issues"
+		"url": "https://github.com/Playform/DashboardAstro/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Playform/AstroDashboard.git"
+		"url": "git+https://github.com/Playform/DashboardAstro.git"
 	},
 	"license": "SEE LICENSE IN LICENSE",
 	"author": {
