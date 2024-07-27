@@ -24,7 +24,7 @@
 	"main": "./Target/Index.js",
 	"types": "./Target/Index.d.ts",
 	"publishConfig": {
-		"provenance": true,
-		"access": "public"
+		"access": "public",
+		"provenance": true
 	}
 }
